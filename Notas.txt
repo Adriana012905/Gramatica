@@ -1,0 +1,5 @@
+El archivo .jar se encuentra dentro la carpeta store 
+del proyecto normalización igualmente puse el .jar
+por fuera si en llegado caso no lo encuentre ingeniera.
+
+Se anexa la libreria de grafos que se debe implementar en el aplicativo
